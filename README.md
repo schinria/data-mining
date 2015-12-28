@@ -1,4 +1,4 @@
-#Data Mining the Inside Airbnb San Francisco May 2015 Dataset"
+#Data Mining the Inside Airbnb San Francisco May 2015 Dataset
 ##Predictive Modeling of Daily Rental Pricing in Airbnb's San Francisco Market Using Web User Interface Inputs
 ##Schinria Islam
 ##December 2, 2015
